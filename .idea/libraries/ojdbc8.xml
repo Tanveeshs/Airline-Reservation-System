@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ojdbc8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/Modules" />
+      <root url="jar://$PROJECT_DIR$/src/Modules/jaf-1.1.1/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/Modules" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/Modules" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/Modules" recursive="false" type="SOURCES" />
+  </library>
+</component>
